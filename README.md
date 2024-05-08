@@ -2,15 +2,30 @@
 
 A blog posts app created using Flutter and Firebase.
 
-## Getting Started
+## Download
 
-This project is a starting point for a Flutter application.
+- [Download Android APK](https://github.com/harshapulikollu/hp_blog/raw/main/apk/app-release.apk)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Screenshot 1                                                                                                | Screenshot 2                                                                                                |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ![Screenshot 1](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152181.png?raw=true) | ![Screenshot 2](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152184.png?raw=true) |
+| Home screen                                                                                                 | Home screen 2                                                                                               |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screenshot 3                                                                                                | Screenshot 4                                                                                                |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ![Screenshot 3](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152189.png?raw=true) | ![Screenshot 4](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152192.png?raw=true) |
+| Detail blog screen                                                                                          | Share blog                                                                                                  |
+
+| Screenshot 5                                                                                                | Screenshot 6                                                                                                |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ![Screenshot 5](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152203.png?raw=true) | ![Screenshot 6](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152216.png?raw=true) |
+| Read blog viewed state                                                                                      | More options                                                                                                |
+
+## Contact
+
+[Email](mailto:harshapulikollu@gmail.com) | 
+[Github](https://github.com/harshapulikollu) | 
+[LinkedIn](https://www.linkedin.com/in/harshapulikollu/)
+
