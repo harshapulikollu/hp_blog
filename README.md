@@ -13,10 +13,10 @@ A blog posts app created using Flutter and Firebase.
 | ![Screenshot 1](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152181.png?raw=true) | ![Screenshot 2](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152184.png?raw=true) |
 | Home screen                                                                                                 | Home screen 2                                                                                               |
 
-| Screenshot 3                                                                                                | Screenshot 4                                                                                                |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Screenshot 3                                                                                                | Screenshot 4                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | ![Screenshot 3](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152189.png?raw=true) | ![Screenshot 4](https://github.com/harshapulikollu/hp_blog/blob/main/screenshots/Screenshot_1715152192.png?raw=true) |
-| Detail blog screen                                                                                          | Share blog                                                                                                  |
+| Detail blog screen                                                                                          | Share blog with deep linking support                                                                                 |
 
 | Screenshot 5                                                                                                | Screenshot 6                                                                                                |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
